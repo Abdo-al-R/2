@@ -1,0 +1,36 @@
+p { 
+	color: goldenrod;
+    font-family: Tangerine;
+    font-size: 30px ;
+    font-style: bold;
+}
+
+body {
+	background-color: black;
+	color :greenyellow;
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: sans-serif;
+  color : black;
+}
+.contain{ float : right;
+  display: flex;
+  flex-wrap: wrap;
+}
+.red{
+  background-color: red;
+}
+
+.green{
+  background-color: green;
+}
+
+.yellow{
+  background-color: yellow;
+}
